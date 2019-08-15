@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Lucas
+Build-Jdk: 11.0.3
+Implementation-Title: treasy
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.treasy
+Main-Class: ${start-class}
+
